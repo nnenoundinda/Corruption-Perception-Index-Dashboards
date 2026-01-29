@@ -14,6 +14,7 @@ This project explores the relationship between perceived corruption and developm
 ## Tools Used
 - Tableau
 - Tableau Prep
+- R studio for data cleaning
 
 ## Dashboards
 The project consists of three main dashboards:
