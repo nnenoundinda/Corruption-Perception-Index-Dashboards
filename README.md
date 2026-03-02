@@ -21,6 +21,7 @@ The project consists of three main dashboards:
 1. **Global CPI Dashboard** – World map and time-series trends of corruption perception.
 2. **Regional Comparison Dashboard** – Regional rankings and country-level comparisons.
 3. **U.S. State-Level Dashboard** – Maps and scatter plots comparing education, poverty, and inequality.
+Link to Tableau Public:https://public.tableau.com/app/profile/ndinda.kasyoka/viz/CPI_Project_FINAL_Public/Story1?publish=yes
 
 ## Key Findings
 - Regions with lower perceived corruption tend to show stronger development outcomes.
